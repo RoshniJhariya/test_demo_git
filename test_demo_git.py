@@ -13,7 +13,7 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
-print("Hello git_demo")
+print("Hello git_demo_")
 
 
 
